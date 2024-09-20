@@ -34,4 +34,4 @@ del get_versions
 
 
 from .pipeline import Pipeline
-from .optimizer import Optimizer
+#from .optimizer import Optimizer
